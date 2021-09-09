@@ -1,0 +1,68 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		mad
+	 *	@date 		1631113523428
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/bi_camera" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_bi_camera_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__bi_camera_ek2"
+					android:background="@drawable/_bg__bi_camera_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="23dp"
+					android:layout_height="25dp" />
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+			<TextView android:id="@+id/add_loc____new_page____search_loc_open_camera____add_to_fav"
+				android:fontFamily="Open Sans"
+				android:textStyle="bold"
+				android:textSize="20sp"
+				android:textColor="@color/rectangle_20_color"
+				android:layout_marginLeft="2762dp"
+				android:layout_marginTop="-746dp"
+				android:layout_width="530dp"
+				android:layout_height="308dp"
+				android:text="@string/add_loc____new_page____search_loc_open_camera____add_to_fav_string"
+				 />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
